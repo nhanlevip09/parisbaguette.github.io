@@ -1,0 +1,75 @@
+/* CSS Document */
+
+center {
+	background: #ffffff;
+}
+.slider {
+	background: #072a62;
+	min-height: 420px;
+	z-index: -1;
+}
+/* ====================== INDEX ==================== */
+.cycle-slideshow {
+	height: 420px;
+	overflow: hidden;
+	padding: 10px auto;
+	background: #ffffff;
+}
+.cycle-slideshow img {
+	margin: 10px;
+}
+.btslider {
+	background: #ffffff;
+}
+.v {
+	background: #ffffff;
+	height: 345px;
+}
+.v h4 {
+	color: #072a62;
+}
+.v p {
+	color: #666666;
+}
+.v h4, .v p {
+	padding: 10px;
+}
+.spham {
+	background: #ffffff;
+	min-height: 460px;
+}
+.sp {
+	position: relative;
+}
+.sp img {
+	display: block;
+}
+.overlay {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 0;
+	background: rgba(7,42,98,0.80);
+	overflow: hidden;
+	transition: 0.5 ease;
+	margin: 10px;
+}
+.sp:hover .overlay {
+	height: 30%;
+}
+.text h4 {
+	color: #ffffff;
+}
+.text p {
+	color: #ff6600;
+}
+.text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+/* ====================== SUKIEN ==================== */
