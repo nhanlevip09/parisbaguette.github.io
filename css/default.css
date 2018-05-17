@@ -6,9 +6,10 @@ body {
 	background: #eff2f1;
 	width: 100%;
 	padding: 0 auto;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 	font-size: 14px;
 	margin: 0 auto;
+	min-height: 1100px;
 }
 /*== HEADER ==*/
 header {
@@ -63,7 +64,7 @@ header img {
 }
 /*== MAIN ==*/
 main {
-	min-height: 1310px
+	min-height: 1220px
 }
 /*== FOOTER ==*/
 footer {
@@ -76,6 +77,8 @@ footer {
 }
 .fif i {
 	margin: 10px;
+	color: white;
+	text-decoration: none;
 }
 .fif em {
 	padding-top: 10px;

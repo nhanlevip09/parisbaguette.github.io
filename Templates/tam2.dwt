@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="../css/default.css" type="text/css">
 <link rel="stylesheet" href="../css/fontawesome-all.min.css" type="text/css">
 <link rel="stylesheet" href="../css/main.css" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet"> 
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
@@ -46,7 +47,10 @@
       <h3>Paris Baguette Vietnam (PB Vietnam)</h3>
       <p>445 - 447 Hai Bà Trưng, P. 8, Quận 3, TP. HCM
         (08) 38 481 682</p>
-      <i class="fas fa-envelope fa-3x"></i> <i class="fab fa-facebook-square fa-3x"></i> <i class="fab fa-twitter-square fa-3x"></i> <i class="fas fa-rss-square fa-3x"></i> </div>
+      <a href="#"><i class="fas fa-envelope fa-3x"></i> </a>
+		<a href="#"><i class="fab fa-facebook-square fa-3x"></i></a>
+		<a href="#"><i class="fab fa-twitter-square fa-3x"></i> </a>
+		<a href="#"><i class="fas fa-rss-square fa-3x"></i></a> </div>
     <div class="col-04 fif">
       <h3>CỬA HÀNG</h3>
       <p>27 Nguyen Thi Minh Khai, P. 2, Quận 3, TP. HCM
