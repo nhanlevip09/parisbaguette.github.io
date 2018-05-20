@@ -17,22 +17,22 @@
 
 <body>
 <header>
-  <div class="container"><a href="index.html"><img src="../images/logo.png" class="col-05" /></a>
+  <div class="container"><a href="../index.html"><img src="../images/logo.png" class="col-05" /></a>
     <nav class="navigation col-07">
       <ul>
-        <li class="active"><a href="index.html">TRANG CHỦ</a></li>
+        <li class="active"><a href="../index.html">TRANG CHỦ</a></li>
         <li><a href="#">MENU Paris Baguette</a>
           <ul class="submenu">
-            <li><a href="#">Bánh Sinh nhật</a></li>
-            <li><a href="#">Bánh kem trái cây</a></li>
-            <li><a href="#">Cocktail tuyệt hảo</a></li>
-            <li><a href="#">Cupcake các loại</a></li>
-            <li><a href="#">Các loại bánh nướng</a></li>
-            <li><a href="#">Yougourt trái cây</a></li>
+            <li><a href="../trangbankem.html">Bánh Sinh nhật</a></li>
+            <li><a href="../trangbankem.html">Bánh kem trái cây</a></li>
+            <li><a href="../trangbankem.html">Cocktail tuyệt hảo</a></li>
+            <li><a href="../trangbankem.html">Cupcake các loại</a></li>
+            <li><a href="../trangbankem.html">Các loại bánh nướng</a></li>
+            <li><a href="../trangbankem.html">Yougourt trái cây</a></li>
           </ul>
         </li>
-        <li><a href="#">CỬA HÀNG</a></li>
-        <li><a href="sukien.html">SỰ KIỆN</a></li>
+        <li><a href="../cuahang.html">CỬA HÀNG</a></li>
+        <li><a href="../sukien.html">SỰ KIỆN</a></li>
         <li><a href="#">LIÊN HỆ</a></li>
       </ul>
     </nav>
